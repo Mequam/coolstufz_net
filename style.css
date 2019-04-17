@@ -1,0 +1,133 @@
+body
+{
+	background-color:#6467ff;
+	font-size:18px;
+}
+.banner
+{
+	width:100%;
+	text-align:center;
+	margin:0%;
+	border:0%;
+	padding:0%;
+	background-color:#80ff80;
+}
+.input
+{	
+	border-left-size:1px;
+	border-left-color:#1a1a1a;
+	border-right:none;
+	border-bottom:none;
+	border-top:none;
+
+	/*
+	border:2px;
+	border-style:solid;
+	border-color:#33cc33;
+	*/
+	margin-bottom:2px;
+	margin-top:2px;
+	background-color:#1a1a1a;
+	color:white;
+}
+.input:focus
+{	
+	
+	border-left-size:1px;
+	border-left-color:#1a1a1a;
+	border-right:none;
+	border-bottom:none;
+	border-top:none;
+	/*
+	border:2px;
+	border-style:solid;
+	border-color:#33cc33;
+	*/
+	margin-bottom:2px;
+	margin-top:2px;
+	background-color:#6467ff;
+	color:white;
+}
+.submit
+{
+	margin-bottom:2px;
+	margin-top:2px;
+	background-color:#1a1a1a;
+	border-size:2px;
+	border-color:#1a1a1a;	
+	color:white;
+}
+.submit:focus
+{
+	margin-bottom:2px;
+	margin-top:2px;
+	background-color:#6467ff;
+	color:white;
+	border-size:2px;
+	border-color:#1a1a1a;
+
+}
+.mappa:link
+{
+	width:100%;
+	background-color:#80ff80;
+	/*background-color:#ffa366;*/
+	text-decoration:none;
+	color:#000000;
+	border-left-color:#33cc33;
+	/*border-left-color:#cc5200;*/
+	border-left-style:solid;
+	border-left-width:4px;
+
+}
+.mappa:hover
+{
+	width:100%;
+	/*background-color:#80ff80;*/
+	background-color:#009900;
+	text-decoration:none;
+	color:white;
+	/*border-left-color:#009900;*/
+	/*border-left-color:#cc5200;*/
+	border-left-color:#33cc33;
+	border-left-style:solid;
+	border-left-width:4px;
+
+}
+.mapp
+{
+	background-color:white;
+	float:left;
+	padding:2px;
+	padding-color:white;
+	height:250px;
+	border-style:solid;
+	border-radius:5px;
+}
+.block1
+{
+	background-color:white;/*64fffc;*/
+	text-align:center;
+	width:60%;
+	color:black;
+	margin-left:20%;
+	border-style:solid;
+	border-color:black;
+}
+.groupblock
+{
+	overflow-y:scroll;
+}
+.output
+{
+	background-color:white;
+	text-align:center;
+	width:10%;
+	color:black;
+	border-bottom-style:solid;
+	border-bottom-color:#33cc33;
+}
+.across
+{
+	display:inline;
+}

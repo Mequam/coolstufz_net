@@ -1,0 +1,8 @@
+<div class="mapp">
+	<a href="/index.php" class="mappa">home</a><br>
+	<a href="/modules/Snake.php" class="mappa">snake game</a><br>
+	<a href="/modules/roll.php" class="mappa">php roller</a><br>
+	<a href="/modules/mana_prime.php" class="mappa">manac alpha</a><br>
+	<a href="/register.php" class="mappa">register</a><br>	
+</div>
+
